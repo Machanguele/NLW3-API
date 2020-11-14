@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07e2e782-50bf-4995-8413-b3639f6bd007" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1jxwTXlZUmk3UrX6k1cpLefKdWa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="VAR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
+    <property name="settings.editor.splitter.proportion" value="0.33742332" />
+    <property name="ts.external.directory.path" value="E:\NLW\aulas\api\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\NLW\aulas\api" />
+      <recent name="E:\NLW\aulas\api\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07e2e782-50bf-4995-8413-b3639f6bd007" name="Default Changelist" comment="" />
+      <created>1604759059020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604759059020</updated>
+      <workItem from="1604759060111" duration="4650000" />
+      <workItem from="1604763801780" duration="242000" />
+      <workItem from="1604764255683" duration="9120000" />
+      <workItem from="1604846103344" duration="10365000" />
+      <workItem from="1604900623861" duration="598000" />
+      <workItem from="1604914531301" duration="134000" />
+      <workItem from="1605008449866" duration="9258000" />
+      <workItem from="1605338734300" duration="15736000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added: First Commit">
+      <created>1605373543635</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605373543635</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added: First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added: First Commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="836" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604762940482">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="836" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.900@0.0.1600.900" timestamp="1604762940482" />
+    <state x="242" y="0" key="CommitChangelistDialog2" timestamp="1605373540707">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="242" y="0" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1605373540707" />
+    <state x="474" y="84" key="FileChooserDialogImpl" timestamp="1605074287056">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="474" y="84" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1605074287056" />
+    <state x="58" y="0" key="SettingsEditor" timestamp="1604781341958">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="58" y="0" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1604781341958" />
+    <state x="384" y="55" key="Vcs.Push.Dialog.v2" timestamp="1605373547678">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="384" y="55" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1605373547678" />
+    <state x="293" y="0" width="1009" height="1470" key="search.everywhere.popup" timestamp="1605368956431">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="293" y="0" width="1009" height="1470" key="search.everywhere.popup/0.0.1600.900@0.0.1600.900" timestamp="1605368956431" />
+  </component>
+</project>
